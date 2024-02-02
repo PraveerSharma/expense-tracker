@@ -2,6 +2,8 @@ Expense Tracker Application
 - 
 Expense Tracker is a web application built with Spring Boot for the backend and React.js for the frontend. It helps users track their expenses, manage groups, and analyze spending patterns.
 
+NETLIFY LINK - https://65bcc6a60162f46f4c9ed572--lovely-fudge-6e0e08.netlify.app/
+
 Technologies Used 
 -
             Frontend
@@ -51,6 +53,15 @@ Installation
             * Run npm install to install dependencies.
             * Run npm start to start the development server.
             * The frontend will be accessible at http://localhost:3000 in your web browser.
+
+
+UI Pics of App
+-
+* https://github.com/PraveerSharma/expense-tracker/assets/68790573/80ba8f84-7abb-4789-bcab-589848c55948
+
+* https://github.com/PraveerSharma/expense-tracker/assets/68790573/c1cce235-f14d-4985-b68d-bc1d30a98efc
+
+
        
 
 
