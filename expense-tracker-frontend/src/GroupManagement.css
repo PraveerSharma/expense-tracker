@@ -1,0 +1,104 @@
+/* Style for GroupManagement component */
+.group-management-container {
+    max-width: 500px;
+    /* background-color: #0D85D8; */
+    background-color: #90EE90;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.group-management-labels{
+    /* background-color: #F96167; */
+    border-radius: 3px;
+    color: white;
+    padding: 3px;
+    font-size: 15px;
+
+    margin-right: 15px;
+  }
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"] {
+    width: 50%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+
+.group-management-heading{
+    margin-top: 0px;
+}
+
+.member-list {
+    margin-bottom: 10px;
+}
+
+.member-item {
+    margin-bottom: 5px;
+}
+
+.add-member {
+    display: flex;
+    align-items: center;
+}
+
+.add-member input[type="text"] {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.add-member-button{
+    margin: 5px;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    background-color: #F96167;
+    color: white;
+}
+.add-member button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    color: #fff;
+    cursor: pointer;
+}
+
+.add-member button:hover {
+    background-color: #0056b3;
+}
+
+.create-group-button{
+  background-color: #4CAF50; 
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-size: 15px;
+}
+
+.group-management-input{
+    width: 60px;
+    margin-right: 10px;
+}
+
+.group-management-container {
+    margin-right: 10px; /* Add margin to create space between components */
+}
+
